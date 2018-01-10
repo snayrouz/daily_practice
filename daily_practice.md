@@ -3,9 +3,10 @@
 ## Pre Surgery
 * [Code Retreat](https://github.com/turingschool/code_retreat) Repo
 * Work on updating one past project (API Curious)
-* Contribute to the Pokemon Showdown Open Source Project
+* Contribute to the [Pokemon Showdown Open Source Project](https://github.com/Zarel/Pokemon-Showdown)
 * Read "Cracking the Coding Interview"
-* Attempt a codewars challenge every morning
+* Attempt a Code Wars challenge every morning
+* Go through Blogger to remember basic Rails fundamentals
 
 ## Post Surgery
 * At least 6 cold out reach attempts
