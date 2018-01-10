@@ -1,7 +1,7 @@
 # Daily Practice
 
 ## Pre Surgery
-* Code Retreat Repo
+* [Code Retreat](https://github.com/turingschool/code_retreat) Repo
 * Work on updating one past project (API Curious)
 * Contribute to the Pokemon Showdown Open Source Project
 * Read "Cracking the Coding Interview"
